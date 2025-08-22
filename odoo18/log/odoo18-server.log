@@ -2027,3 +2027,4 @@ odoo.exceptions.AccessDenied: Access Denied
 2025-08-22 19:32:04,670 8062 INFO odooprueba odoo.addons.base.models.ir_cron: Job 'Base: Auto-vacuum internal data' (1) done in 0.105s 
 2025-08-22 19:32:04,679 8062 INFO odooprueba odoo.addons.base.models.ir_cron: Job 'Base: Auto-vacuum internal data' (1) processed 0 records, 0 records remaining 
 2025-08-22 19:32:04,683 8062 INFO odooprueba odoo.addons.base.models.ir_cron: Job 'Base: Auto-vacuum internal data' (1) completed 
+2025-08-22 19:40:49,572 8062 INFO odooprueba werkzeug: 127.0.0.1 - - [22/Aug/2025 19:40:49] "GET /web/service-worker.js HTTP/1.1" 200 - 1 0.001 0.010
