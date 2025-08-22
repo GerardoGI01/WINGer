@@ -2028,3 +2028,15 @@ odoo.exceptions.AccessDenied: Access Denied
 2025-08-22 19:32:04,679 8062 INFO odooprueba odoo.addons.base.models.ir_cron: Job 'Base: Auto-vacuum internal data' (1) processed 0 records, 0 records remaining 
 2025-08-22 19:32:04,683 8062 INFO odooprueba odoo.addons.base.models.ir_cron: Job 'Base: Auto-vacuum internal data' (1) completed 
 2025-08-22 19:40:49,572 8062 INFO odooprueba werkzeug: 127.0.0.1 - - [22/Aug/2025 19:40:49] "GET /web/service-worker.js HTTP/1.1" 200 - 1 0.001 0.010
+2025-08-22 19:51:48,904 8062 INFO Prueba odoo.addons.base.models.ir_cron: Job 'SMS: SMS Queue Manager' (14) starting 
+2025-08-22 19:51:48,911 8062 INFO Prueba odoo.addons.base.models.ir_cron: Job 'SMS: SMS Queue Manager' (14) done in 0.006s 
+2025-08-22 19:51:48,915 8062 INFO Prueba odoo.addons.base.models.ir_cron: Job 'SMS: SMS Queue Manager' (14) processed 0 records, 0 records remaining 
+2025-08-22 19:51:48,921 8062 INFO Prueba odoo.addons.base.models.ir_cron: Job 'SMS: SMS Queue Manager' (14) completed 
+2025-08-22 19:51:48,931 8062 INFO Prueba odoo.addons.base.models.ir_cron: Job 'Snailmail: process letters queue' (15) starting 
+2025-08-22 19:51:48,936 8062 INFO Prueba odoo.addons.base.models.ir_cron: Job 'Snailmail: process letters queue' (15) done in 0.005s 
+2025-08-22 19:51:48,939 8062 INFO Prueba odoo.addons.base.models.ir_cron: Job 'Snailmail: process letters queue' (15) processed 0 records, 0 records remaining 
+2025-08-22 19:51:48,942 8062 INFO Prueba odoo.addons.base.models.ir_cron: Job 'Snailmail: process letters queue' (15) completed 
+2025-08-22 19:51:48,951 8062 INFO Prueba odoo.addons.base.models.ir_cron: Job 'Partner Autocomplete: Sync with remote DB' (13) starting 
+2025-08-22 19:51:48,954 8062 INFO Prueba odoo.addons.base.models.ir_cron: Job 'Partner Autocomplete: Sync with remote DB' (13) done in 0.003s 
+2025-08-22 19:51:48,957 8062 INFO Prueba odoo.addons.base.models.ir_cron: Job 'Partner Autocomplete: Sync with remote DB' (13) processed 0 records, 0 records remaining 
+2025-08-22 19:51:48,960 8062 INFO Prueba odoo.addons.base.models.ir_cron: Job 'Partner Autocomplete: Sync with remote DB' (13) completed 
